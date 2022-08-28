@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Currently Working On: Blood Clot Image Classification for STRIP AI - Mayo Clinic on [Kaggle](https://www.kaggle.com/competitions/mayo-clinic-strip-ai/data)
-- Currently Learning: C/C++
+- Currently Working On: [Blood Clot Image Classification for STRIP AI - Mayo Clinic on Kaggle](https://www.kaggle.com/competitions/mayo-clinic-strip-ai/data)
+- Currently Learning: C/C++, Digging Deeper into TensorFlow
 - Feel free to reach out for help/collaboration!
 - Hit me up on chess.com for a quick game (username: imak64)
