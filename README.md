@@ -17,4 +17,3 @@ Here are some ideas to get you started:
 
 - Currently Learning: JavaScript
 - Feel free to reach out for help/collaboration!
-- Hit me up on chess.com for a quick game (username: imak64)
