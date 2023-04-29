@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Currently Learning: JavaScript
 - Feel free to reach out for help/collaboration!
